@@ -1,2 +1,2 @@
 # PHP-MYSqlIntegration_LabActivity_Alcaraz
-Lab Activity
+Lab Activity. Initialize app_db to phpmyadmin.
